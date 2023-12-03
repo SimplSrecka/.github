@@ -39,7 +39,7 @@
 * https://github.com/SimplSrecka/user
 
 ## Transcation microservice:
-* https://hub.docker.com/r/lb4684/transcation
+* https://hub.docker.com/r/lb4684/transaction
 * https://github.com/SimplSrecka/transaction
 
 ## Lottery drawing and results microservice:
