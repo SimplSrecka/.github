@@ -38,9 +38,9 @@
 * https://hub.docker.com/r/lb4684/user
 * https://github.com/SimplSrecka/user
 
-## Payment and transcation microservice:
-* https://hub.docker.com/r/lb4684/payment-transcations
-* https://github.com/SimplSrecka/paymentTransactions
+## Transcation microservice:
+* https://hub.docker.com/r/lb4684/transcation
+* https://github.com/SimplSrecka/transaction
 
 ## Lottery drawing and results microservice:
 * https://hub.docker.com/r/lb4684/lottery-drawing-results
