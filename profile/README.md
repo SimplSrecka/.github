@@ -39,6 +39,6 @@
 |--|--|--|
 |__Lottery Ticket Catalog__| [Github](https://github.com/SimplSrecka/lotteryTicketCatalog) | [DockerHub](https://hub.docker.com/r/lb4684/lottery-ticket-catalog) | 
 |__User__| [Github](https://github.com/SimplSrecka/user) | [DockerHub](https://hub.docker.com/r/lb4684/user) | 
-|__Transcation__| [Github]([https://hub.docker.com/r/lb4684/transaction](https://github.com/SimplSrecka/transaction))  | [DockerHub](https://hub.docker.com/r/lb4684/transaction) | 
+|__Transcation__| [Github](https://github.com/SimplSrecka/transaction)  | [DockerHub](https://hub.docker.com/r/lb4684/transaction) | 
 |__Lottery drawing and results__| [Github](https://github.com/SimplSrecka/lotteryDrawingResults) | [DockerHub](https://hub.docker.com/r/lb4684/lottery-drawing-results) | 
 
