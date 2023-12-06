@@ -24,7 +24,7 @@
 
 ## Use Case
 * Nakup srečke
-* Polnjenje sranja
+* Polnjenje stanja
 * Dvig stanja
 * Filtriranje srečk glede na velikost dobitka
 * Ogled svojih zadetkov
