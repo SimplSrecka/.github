@@ -6,7 +6,7 @@
 |__Člani Skupine__| Brecelj Luka, Kržan Ariana |
 |__Opis Projekta__| Razvili bomo spletno loterijo SimplSrečka, ki bo ponujala svojo srečko z istim imenom. Poleg te bo mogoče kupiti tudi druge srečke kot so Eurojackpot in Loto. Aplikacija bo ponujala vplačilo srečk, ogled rezultatov žrebanj in upravljanje s svojim stanjem. |
 |__Razvojno ogrodje__| Java, Docker, Kubernetes |
-|__Progress nalog__| ✅: 1, 2, 3, 4, 5 <br> ❌: 6|
+|__Progress nalog__| ✅
  
 ## Funkcionalnosti
 * Registracija
@@ -24,10 +24,8 @@
 
 
 ## Use Case
+* Registracija, prijava
 * Nakup srečke
-* Polnjenje stanja
-* Dvig stanja
-* Filtriranje srečk glede na velikost dobitka
 * Ogled svojih zadetkov
 
 ## Povezave do reporzitorijev
